@@ -1,4 +1,4 @@
-# SQL BI Exercises
+# SQL Exercises
 
 Este repositório contém uma coleção de exercícios de **SQL aplicados a BI**, organizados por nível de dificuldade (Básico, Intermediário e Avançado).  
 
@@ -89,7 +89,7 @@ O banco de dados utilizado foi **modelado e criado por mim** no projeto [vp-educ
 3. Consulte o **diagrama do banco** em `database/` para visualizar as relações entre tabelas.  
 4. Caso queira um caminho estruturado, veja o **roadmap em PDF** em `referencias/`.  
 
-Além de ser um material de prática, este repositório foi pensado para **evidenciar minhas habilidades em SQL aplicadas a cenários de BI**, com consultas organizadas e documentadas.  
+Além de ser um material de prática, este repositório foi pensado para **evidenciar minhas habilidades em SQL aplicadas a cenários da área de dados**, com consultas organizadas e documentadas.  
 
 ---
 
