@@ -1,6 +1,6 @@
 # SQL Exercises
 
-Este repositório contém uma coleção de exercícios de **SQL aplicados a BI**, organizados por nível de dificuldade (Básico, Intermediário e Avançado).  
+Este repositório contém uma coleção de exercícios de **SQL aplicados a Dados**, organizados por nível de dificuldade (Básico, Intermediário e Avançado).  
 
 O objetivo deste repositório é **demonstrar minhas habilidades práticas em SQL voltado para área de dados**.  
 Os exercícios refletem situações comuns do dia a dia em análise de dados e foram organizados em níveis de dificuldade.  
@@ -22,7 +22,7 @@ Caso alguém queira praticar, o repositório também pode ser utilizado como gui
 ## Estrutura do repositório
 
 ```
-sql-bi-exercises/
+sql-exercises/
 │
 ├── exercicios/         # Exercícios resolvidos
 │   ├── 01_basico_resolucoes.sql
