@@ -99,4 +99,4 @@ Este projeto está licenciado sob a [MIT License](./LICENSE).
 
 ---
 
-Desenvolvido por **Rafael Jorge** — para estudos em SQL e BI.
+Desenvolvido por **Rafael Jorge** — para estudos em SQL e Dados.
