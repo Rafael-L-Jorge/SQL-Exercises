@@ -14,7 +14,7 @@ Caso alguém queira praticar, o repositório também pode ser utilizado como gui
 **Este repositório está em construção contínua.**  
 
 - Básico: ✅ Concluído (10/10)   
-- Intermediário: Em andamento  
+- Intermediário: ✅ Concluído (10/10)   
 - Avançado: A ser adicionado  
 
 ---
