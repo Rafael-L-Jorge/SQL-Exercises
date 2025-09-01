@@ -5,8 +5,6 @@ Este repositório contém uma coleção de exercícios de **SQL aplicados a Dado
 O objetivo deste repositório é **demonstrar minhas habilidades práticas em SQL voltado para área de dados**.  
 Os exercícios refletem situações comuns do dia a dia em análise de dados e foram organizados em níveis de dificuldade.  
 
-Caso alguém queira praticar, o repositório também pode ser utilizado como guia de estudos.  
-
 ---
 
 ## Status do Projeto
@@ -14,8 +12,8 @@ Caso alguém queira praticar, o repositório também pode ser utilizado como gui
 **Este repositório está em construção contínua.**  
 
 - Básico: ✅ Concluído (10/10)   
-- Intermediário: ✅ Concluído (10/10)   
-- Avançado: A ser adicionado  
+- Intermediário: ✅ Concluído (10/10) 
+- Avançado: Em andamento  
 
 ---
 
@@ -32,9 +30,11 @@ sql-exercises/
 ├── referencias/        # Materiais de apoio
 │   ├── dicionario_de_dados.md
 │   └── roadmap_30_exercicios.pdf
+│   └── roadmap_30_exercicios.md
 │
 ├── database/           # Recursos do banco
 │   ├── diagrama_banco_dados.png
+│   ├── sql_exercises.sqllite  <-banco pronto para uso
 │
 ├── .gitignore
 ├── LICENSE
@@ -72,24 +72,21 @@ sql-exercises/
 
 ---
 
-## Banco de Dados
+## Banco de Dados para Exercícios SQL
 
-O banco de dados utilizado foi **modelado e criado por mim** no projeto [vp-educacional-analytics](https://github.com/Rafael-L-Jorge/vp-educacional-analytics), disponibilizado aqui no GitHub.  
+Este repositório inclui um banco de dados **SQLite** pronto para consultas (`sql_exercises.sqlite`), criado a partir de dados fictícios para fins de estudo.
 
-> Nota: Este repositório **não disponibiliza a base de dados real**.  
-> Para praticar, utilize o **dicionário de dados** e o **diagrama** incluídos aqui como referência para recriar o banco em seu ambiente.  
-> Consulte também o [Roadmap de 30 Exercícios](./referencias/roadmap_30_exercicios.pdf) como guia estruturado de prática.
+### Como usar
 
----
+1. Baixe o arquivo [`sql_exercises.sqlite`](./database/sql_exercises.sqlite).
+2. Abra em um cliente SQLite de sua preferência:
+   - [DB Browser for SQLite](https://sqlitebrowser.org/dl/) (interface gráfica)
+   - [SQLite Online](https://sqliteonline.com/) (no navegador, sem instalar nada)
+   - Ou use diretamente em qualquer linguagem que suporte SQLite.
 
-## Como usar
+A descrição das tabelas e colunas está disponível no [Dicionário de Dados](./referencias/dicionario_dados.md).
 
-1. Acesse a pasta `exercicios/` e explore as queries resolvidas.  
-2. Utilize o **dicionário de dados** em `referencias/` para entender a modelagem.  
-3. Consulte o **diagrama do banco** em `database/` para visualizar as relações entre tabelas.  
-4. Caso queira um caminho estruturado, veja o **roadmap em PDF** em `referencias/`.  
-
-Além de ser um material de prática, este repositório foi pensado para **evidenciar minhas habilidades em SQL aplicadas a cenários da área de dados**, com consultas organizadas e documentadas.  
+> ⚠️ Todos os dados são fictícios e foram criados apenas para fins de **prática em SQL**.
 
 ---
 
