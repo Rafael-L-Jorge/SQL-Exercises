@@ -13,7 +13,7 @@ Os exercícios refletem situações comuns do dia a dia em análise de dados e f
 
 - Básico: ✅ Concluído (10/10)   
 - Intermediário: ✅ Concluído (10/10) 
-- Avançado: Em andamento  
+- Avançado: ✅ Concluído (10/10)   
 
 ---
 
